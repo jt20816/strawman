@@ -21,7 +21,7 @@
 - Docker and containerization
 - Git
 
-## Workflow knowledge
+## Process knowledge
 
 - Where do requirements come from
 - How create tickets
